@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <testTheory>
+    <testArtifacts>Bug report, CheckList, TestCase, TestPlan, TR</testArtifacts>
+    <testDesign>PeirWiseTesting, StateTable, BoundaryValue, DT, DAT, UCT</testDesign>
+  </testTheory>
+  <git>Linux Terminal, gitCommands</git>
+  <postman>CRUD</postman>
+  <CharlesProxy>sniffTraffic</CharlesProxy>
+  <DevTools>FullGuide</DevTools>
+  <English>EngleshLanguageMeetings</English>
+  <Python>BasiKnowladgeLvl, AutomationTesting</Python>
+  <Practice>Practice on other real projects</Practice>
+</root>
