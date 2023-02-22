@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <person>
+    <name>Tymur</name>
+    <secondName>Kalnytsky</secondName>
+    <age>23</age>
+  </person>
+  <petQty>1</petQty>
+  <salary>500$</salary>
+</root>
